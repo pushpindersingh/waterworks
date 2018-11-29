@@ -8,5 +8,7 @@
 				"when": "$(basename).ts"
 			}
 	},
-	"eslint.enable": false
+	"eslint.enable": false,
+	"appService.defaultWebAppToDeploy": "/subscriptions/672726bc-8d35-4eca-bcfb-921e1a00925a/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/WaterWorks",
+	"appService.deploySubpath": ""
 }
